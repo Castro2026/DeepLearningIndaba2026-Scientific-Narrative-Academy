@@ -216,3 +216,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---------------------------------------------------------------------------
+# Project-specific: LaTeX / Overleaf build artifacts
+# ---------------------------------------------------------------------------
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+*.vrb
+
+# Office temp / lock files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
