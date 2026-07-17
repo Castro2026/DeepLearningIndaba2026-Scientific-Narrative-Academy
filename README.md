@@ -18,15 +18,17 @@ Official repository for the Deep Learning Indaba 2026 Skill Session: Mastering t
 │   └── images/                # figures/ · icons/ · diagrams/ (pending)
 │
 ├── resource-kit/
-│   ├── checklist/             # Scientific Writing Checklist (pending)
+│   ├── checklist/             # Scientific Writing Checklist (PDF)
 │   ├── exercises/             # 3-sentence abstract exercise + scenario cards
-│   ├── reading-list/          # references.bib — the 6 papers behind the session
+│   ├── reading-list/          # annotated reading list + references.bib
 │   ├── demo-paper/            # live Pass-1 demo excerpt (pending)
 │   ├── reference-managers/    # Zotero / Mendeley guides (pending)
-│   ├── overleaf/              # the guided LaTeX template + preview
+│   ├── overleaf/              # the guided, in-session LaTeX exercise + preview
 │   └── offline-pack/          # printable backup for no-power/no-Wi-Fi rooms
 │
-├── templates/                 # generic venue starters: neurips/ iclr/ ieee/ overleaf/ (pending)
+├── templates/
+│   ├── overleaf/              # venue-agnostic LaTeX starter + bonus-figures/
+│   └── neurips/ · iclr/ · ieee/  # (pending)
 ├── examples/                  # good/weak abstract & introduction samples (pending)
 ├── references/                # bibliography.bib + papers/ books/ guides/
 ├── assets/                    # QR code, logo, banner, photos/ (pending)

@@ -1,17 +1,11 @@
 # reading-list/
 
-`references.bib` lists the six papers behind this session (extracted from the
-Overleaf template in `resource-kit/overleaf/`): Keshav's 3-Pass method, the
-Transformer paper used for the live demo, two published African-AI papers
-(chili pepper disease detection, maize-yield pattern mining), the FAIR
-principles, and Datasheets for Datasets.
+- [`READING_LIST.md`](READING_LIST.md) — the annotated reading list: 14
+  entries across reading method, writing craft, figures/data/reproducibility,
+  scientific integrity, and African AI research & community, each tagged
+  with which Pass it deserves, plus a suggested 4-week starter plan.
+- `references.bib` — the six papers behind the session in BibTeX form
+  (same content as [`references/bibliography.bib`](../../references/bibliography.bib);
+  see that folder's README for why two copies exist).
 
-The same file also lives at [`references/bibliography.bib`](../../references/bibliography.bib)
-for project-wide citation use; keep both in sync, or replace this copy with a
-symlink once the reading list starts diverging (e.g. adding non-cited
-recommended reading).
-
-## Pending
-
-- `Annotated_Reading_List.pdf` — a human-readable version with a one-line
-  annotation per entry (why it's worth reading), instead of raw BibTeX.
+_Pending: a PDF export of `READING_LIST.md` (`Annotated_Reading_List.pdf`)._

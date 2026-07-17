@@ -1,16 +1,10 @@
 # exercises/
 
-`Exercise_3-Sentence_Abstract.docx` already contains both parts of this
-folder's target content, combined in one document:
+The 3-sentence abstract exercise, in both editable (`.docx`) and print-ready
+(`.pdf`) form. Both already contain the four scenario cards combined in the
+same document — Climate (flood forecasting), Agriculture (pest & disease
+detection), Health (malaria diagnosis), Language (NLP for African local
+languages) — plus the Context/Method/Impact writing scaffold and self-check.
 
-- the **exercise sheet** — the Context/Method/Impact writing scaffold and
-  self-check ("SELF-CHECK — tick before reading it aloud");
-- the **four scenario cards** — Climate (flood forecasting), Agriculture
-  (pest & disease detection), Health (malaria diagnosis), Language (NLP for
-  African local languages).
-
-## Pending
-
-- `Scenario_Cards.pdf` — the four cards split out as a standalone,
-  print-and-cut sheet.
-- `Exercise_Sheet.pdf` — the writing scaffold split out on its own.
+_Pending: `Scenario_Cards.pdf` / `Exercise_Sheet.pdf` as separate, split-out
+files (print-and-cut cards vs. the writing scaffold on its own)._

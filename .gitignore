@@ -246,3 +246,6 @@ __marimo__/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Claude Code local settings
+.claude/settings.local.json
