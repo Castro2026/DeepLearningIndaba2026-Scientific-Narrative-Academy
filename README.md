@@ -72,6 +72,9 @@ git clone https://github.com/Castro2026/DeepLearningIndaba2026-Scientific-Narrat
 - **Start your own paper:** use the venue-agnostic starter in [`templates/overleaf/`](templates/overleaf/)
 - **Follow the checklist:** [`resource-kit/checklist/Scientific_Writing_Checklist.pdf`](resource-kit/checklist/Scientific_Writing_Checklist.pdf)
 
+For a full step-by-step walkthrough of every piece and the order to use them
+in, see [`GUIDE.md`](GUIDE.md).
+
 ## 🌍 Sovereign Intelligence Framing
 
 Mastering research communication is an act of scientific self-determination.
